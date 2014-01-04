@@ -1,0 +1,8 @@
+<Response>
+    <Say>Welcome to Joey and Tommys penthouse.</Say>
+    <Play>9.mp3</Play>
+    <Sms to="310-497-7029" from="310-928-6222" method="POST">Guest entered front door, needs elevator access.</Sms>
+</Response>
+
+<!-- 
+http://twimlets.com/message?Message%5B0%5D=http%3A%2F%2Fjetcityorange.com%2Fdtmf%2FDTMF-9.mp3&Message%5B1%5D=Welcome%20to%20Joey%20and%20Tommys%20penthouse%2C%20head%20up%20to%20the%20fifth%20floor.& -->
