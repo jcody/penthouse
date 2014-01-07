@@ -1,5 +1,5 @@
 <Response>
-    <Play>dialtone.mp3</Play>
+    <Play>https://raw.github.com/JCody/penthouse/master/dialtone.mp3</Play>
     <Say>Welcome to Joey and Tommys penthouse, head up to the fifth floor.</Say>
     <Sms to="310-497-7029" from="415-749-9353" method="POST">Guest entered front door, needs elevator access.</Sms>
 </Response>
